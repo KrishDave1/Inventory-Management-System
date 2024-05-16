@@ -1,4 +1,4 @@
-Smart Inventory Management System
+# Smart Inventory Management System
 
 This project has been designed by 6 students of the International Institute of Information technology Bangalore. The six students are as follows:-
 1) Krish Dave IMT2022043 (Krish.Dave@iiitb.ac.in)
@@ -8,7 +8,7 @@ This project has been designed by 6 students of the International Institute of I
 5) Abhinav Kumar IMT2022079 (Abhinav.Kumar@iiitb.ac.in)
 6) Ketan Ghungralekar IMT2022058 (Ketan.Ghungralekar@iiitb.ac.in)
 
-This project's designed to efficiently manage inventory by processing data from a .txt file and offering various functionalities such as adding, editing, removing, restocking products, as well as generating bills and filtering products based on different parameters like ID, name, price, quantity, and category. The system consists of several C source files, a header file, and a Makefile for compilation. It serves as a comprehensive tool for businesses or individuals looking to streamline their inventory management processes.
+### This project's designed to efficiently manage inventory by processing data from a .txt file and offering various functionalities such as adding, editing, removing, restocking products, as well as generating bills and filtering products based on different parameters like ID, name, price, quantity, and category. The system consists of several C source files, a header file, and a Makefile for compilation. It serves as a comprehensive tool for businesses or individuals looking to streamline their inventory management processes.
 
 Our entire application depends broadly on 6 files (3 .c source files, 1 .h header file, 1 .txt text file and 1 'make' file) and consists of a total of 20 functions being used(23 if we include all the functions int the main.c source file as well) :-
 
